@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\79163\source\repos\radix sort\radix sort\main.cpp(115,30): warning C4101: err: неиспользованная локальная переменная
+C:\Users\79163\source\repos\radix sort\radix sort\main.cpp(154,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\79163\source\repos\radix sort\radix sort\main.cpp(163,56): warning C4267: инициализация: преобразование из "size_t" в "uint8_t"; возможна потеря данных
+C:\Users\79163\source\repos\radix sort\radix sort\main.cpp(196,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  radix sort.vcxproj -> C:\Users\79163\source\repos\radix sort\x64\Debug\radix sort.exe
